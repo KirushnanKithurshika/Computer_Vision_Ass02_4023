@@ -15,7 +15,7 @@ All outputs are visualized and saved automatically in the project folder.
 
 ## 🚀 Technologies Used
 
-* 🐍 Python 3
+* 📦Python 3
 * 📦 OpenCV
 * 📦 NumPy
 * 📦 Matplotlib
@@ -84,25 +84,5 @@ All outputs are visualized and saved automatically in the project folder.
 
 ---
 
-## 📝 Notes
 
-* Make sure your input image is named **`fruitsample.png`**.
-* You can adjust:
 
-  * Noise level: Change `sigma` value in the script.
-  * Region Growing sensitivity: Change the threshold value.
-
----
-
-## 👩‍💻 Author
-
-**Kithurshika Kirushnan**
-University of Ruhuna – Computer Vision Assignment 02
-
----
-
-## ⭐️ Feel free to star the repository if you found it useful!
-
----
-
-If you want, I can help you further customize this with badges (build passing, Python version, etc.) or help you create a repository banner. Let me know! 😊
