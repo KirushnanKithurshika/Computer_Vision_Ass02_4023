@@ -1,6 +1,6 @@
 
 
-# 🍎 Computer Vision Assignment 02
+#Computer Vision Assignment 02
 
 ## Otsu's Thresholding & Region Growing Segmentation
 
