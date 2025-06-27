@@ -1,8 +1,4 @@
-﻿#Thank you for clarifying! Here’s a **professional and attractive GitHub README file content** with **proper structure, emojis, and Markdown formatting** that will look great directly on GitHub.
 
-You can **copy-paste this as it is into your GitHub README.md file.**
-
----
 
 # 🍎 Computer Vision Assignment 02
 
